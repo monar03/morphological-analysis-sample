@@ -1,3 +1,5 @@
+package jp.aquabox.sample
+
 import org.atilika.kuromoji.{Token, Tokenizer}
 
 /**
