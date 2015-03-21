@@ -11,4 +11,5 @@ object Main {
   def main(args: Array[String]): Unit = {
     Kuromoji.get("今日はいい天気ですね。").map(println _ )
   }
+
 }

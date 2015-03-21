@@ -27,7 +27,5 @@ class KuromojiTest extends FunSpec with Matchers {
         }
       }
     }
-
   }
 }
-
